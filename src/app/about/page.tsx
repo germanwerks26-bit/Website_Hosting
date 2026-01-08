@@ -17,7 +17,7 @@ const founders = [
     role: "Founder & Technical Director",
     experience: "10+ years in the automobile industry",
     description: "Pan-India No. 1 Service Advisor Award (2025). Expertise in workshop operations, customer service excellence, and advanced vehicle diagnostics.",
-    image: null,
+    image: "/founders/dhilip.jpg",
     careerPath: [
       "Mitsubishi – Technician",
       "Maruti Suzuki – Technician",

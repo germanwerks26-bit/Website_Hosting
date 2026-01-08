@@ -260,9 +260,6 @@ export default function PackagesPage() {
             <Button asChild className="bg-gray-900 hover:bg-gray-800">
               <Link href="/contact">Contact Us</Link>
             </Button>
-            <Button asChild className="bg-blue-600 hover:bg-blue-700">
-              <Link href="tel:+919092920927">Call: +91 90 92 92 0927 (Dhilip)</Link>
-            </Button>
           </div>
         </div>
       </section>

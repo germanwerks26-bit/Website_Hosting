@@ -8,9 +8,9 @@ const offers = [
   {
     id: 1,
     icon: CheckCircle,
-    title: "Free Vehicle Health Check",
-    shortText: "Free Health Check",
-    description: "Complimentary multi-point inspection covering brakes, fluids, battery, tires, and more.",
+    title: "Vehicle Health Checkup & Onboard Diagnosis @ ₹500 ",
+    shortText: "₹500 Health Check & Onboard Diagnosis",
+    description: "Comprehensive multi-point inspection covering brakes, fluids, battery, tires, and more.",
     details: [
       "Complete brake system inspection",
       "Fluid levels check (engine oil, coolant, brake fluid)",
@@ -24,8 +24,8 @@ const offers = [
   {
     id: 2,
     icon: Percent,
-    title: "20% Off Labor Charges",
-    shortText: "20% Off Labor",
+    title: "10% Off Labor Charges on all Mechanical Services",
+    shortText: "10% Off Labor on all Mechanical Services",
     description: "Flat discount on all labor charges for services booked during our launch period.",
     details: [
       "Valid on all service types",
@@ -40,15 +40,15 @@ const offers = [
   {
     id: 3,
     icon: Sparkles,
-    title: "Free Car Wash & Cleaning",
-    shortText: "Free Wash",
+    title: "Car Wash & Cleaning starts @ ₹399",
+    shortText: "Car Wash & Cleaning starts @ ₹399",
     description: "Complimentary exterior wash and interior vacuum cleaning with any paid service.",
     details: [
       "Full exterior wash & dry",
       "Interior vacuum cleaning",
       "Dashboard wipe & shine",
       "Window cleaning (interior & exterior)",
-      "₹399 value absolutely free"
+      "Tire shine application"
     ],
     color: "from-purple-600 to-purple-800",
     badge: "bg-purple-600",
@@ -56,15 +56,15 @@ const offers = [
   {
     id: 4,
     icon: Car,
-    title: "Loyalty Rewards",
-    shortText: "Loyalty Card",
-    description: "Earn rewards with every visit. 5 visits = 1 free oil change service.",
+    title: "20 % Ceramic Coating | PPF Film installation",
+    shortText: "Ceramic Coating & PPF Film - 20% Off",
+    description: "Get 20% off on premium ceramic and PPF film services for superior paint protection.",
     details: [
-      "Digital loyalty card",
-      "Track your visits via app/SMS",
-      "5 service visits = 1 free oil change",
-      "Never expires - use anytime",
-      "Transferable to family members"
+      "Advanced hydrophobic ceramic coating",
+      "Durable paint protection film (PPF)",
+      "Enhanced gloss & shine",
+      "Scratch & swirl mark resistance",
+      "Long-lasting protection up to 10 years",
     ],
     color: "from-orange-600 to-orange-800",
     badge: "bg-orange-600",
@@ -72,15 +72,16 @@ const offers = [
   {
     id: 5,
     icon: Users,
-    title: "Referral Rewards",
-    shortText: "Refer & Earn",
-    description: "Refer friends and family to earn discounts and free services on your next visit.",
+    title: "Full Body Painting starts from 49,999 Rates",
+    shortText: "Full Body Painting from ₹49,999",
+    description: "Full Body Painting starts from 49,999 Rates with premium quality paints and expert finish.",
     details: [
-      "₹500 off for every successful referral",
-      "Your friend gets 10% discount too",
-      "Unlimited referrals",
-      "Rewards credited instantly",
-      "Use for any service"
+      "Premium quality automotive paints",
+      "Expert surface preparation & priming",
+      "Multiple coats for durability & shine",
+      "Color matching & custom options",
+      "Protective clear coat finish",
+      "Warranty on paintwork upto 5 years",
     ],
     color: "from-pink-600 to-pink-800",
     badge: "bg-pink-600",

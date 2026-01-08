@@ -41,11 +41,12 @@ export function CTA() {
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 text-gray-300">
             <a
-              href="tel:+919092920927"
+              href="https://facebook.com/germanwerks"
+              target="_blank"
+              rel="noopener noreferrer"
               className="flex items-center hover:text-white transition-colors"
             >
-              
-              +91 90 92 92 0927 (Dhilip - Primary)
+              Facebook
             </a>
             <span className="hidden sm:block text-gray-600">•</span>
             <a
